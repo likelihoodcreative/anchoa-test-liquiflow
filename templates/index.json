@@ -1,0 +1,12 @@
+{
+    "sections": {
+        "featured_products": {
+            "type": "featured_products"
+        }
+    },
+    "layout": "theme",
+    "wrapper": "main.main-wrapper",
+    "order": [
+        "featured_products"
+    ]
+}
